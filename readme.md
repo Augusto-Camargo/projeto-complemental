@@ -1,33 +1,34 @@
-# 🚀 Projeto Web - Curso Técnico em Desenvolvimento de Sistemas (GEEaD - CPS)
+# 🚀 Projeto Complementar - Curso Técnico em Desenvolvimento de Sistemas
 
-Este projeto foi desenvolvido como parte integrante da Agenda 15 da disciplina de Programação Web I, pertencente ao Curso Técnico em Desenvolvimento de Sistemas (Modalidade EaD) do Centro Paula Souza (CPS).
+Este projeto é uma landing page institucional construída como atividade prática da disciplina de Programação Web I, do Curso Técnico em Desenvolvimento de Sistemas (EaD) do Centro Paula Souza (CPS).
 
-Trata-se de uma Landing Page institucional e responsiva criada para apresentar a estrutura, objetivos, grade curricular, mercado de trabalho e tecnologias abordadas no curso técnico.
+## 📌 Objetivo
+Apresentar o curso, sua estrutura curricular, mercado de trabalho e tecnologias estudadas, em um layout simples, com navegação lateral e design responsivo.
 
-* 📌 Funcionalidades
-Navegação Lateral (Sidebar): Barra fixa de navegação vertical com ícones interativos.
+## 📄 Seções da página
+- **Home**: Identidade visual do curso e da instituição.
+- **Sobre**: Objetivos do curso e principais benefícios.
+- **Grade Curricular**: Disciplinas organizadas por módulos.
+- **Mercado de Trabalho**: Áreas de atuação do profissional de desenvolvimento de sistemas.
+- **Tecnologias**: Ferramentas e linguagens abordadas no curso.
+- **Contato**: Seção para comunicação ou referências de contato.
 
-Estrutura de Seções:
+## 🛠️ Tecnologias utilizadas
+- **HTML5**: Estrutura semântica do conteúdo.
+- **CSS3**: Estilização visual e layout.
+- **W3.CSS**: Framework leve para responsividade e padrões visuais rápidos.
+- **Font Awesome 4.7**: Ícones para menu e itens visuais.
 
- - Home: Cabeçalho com identidade visual institucional e do curso.
+## 📁 Estrutura do projeto
+- `index.html` — arquivo principal da página.
+- `Style.css` — estilos personalizados.
+- `img/` — imagens usadas na página.
 
- - Sobre: Objetivos gerais do curso e destaques de carga horária / certificação MEC.
+## 💡 Observações
+- A página foi feita para aprendizado e prática de HTML e CSS.
+- O design pode ser melhorado com mais conteúdo, imagens e organização de seções.
+- É possível atualizar o projeto para a versão moderna do Font Awesome ou usar ícones locais se preferir.
 
- - Grade Curricular: Divisão modular (1º, 2º e 3º Módulos) detalhando todas as disciplinas.
+---
 
- - Mercado de Trabalho: Principais áreas de atuação do profissional.
-
- - Tecnologias: Principais ferramentas e linguagens estudadas.
-
- - Contato: Formulário/seção de comunicação.
-
- - Design Responsivo: Adaptável a diferentes tamanhos de tela (desktops, tablets e dispositivos móveis).
-
-* 🛠️ Tecnologias Utilizadas
-HTML5: Estruturação semântica da página.
-
-CSS3: Estilização e layout.
-
-W3.CSS: Framework CSS leve para estilização e responsividade.
-
-Font Awesome 4.7: Biblioteca de ícones para menus e componentes visuais.
+Obrigado por acompanhar o desenvolvimento deste projeto. Se quiser, posso ajudar a deixar o layout ainda melhor ou transformar essa página em um portfólio completo.
